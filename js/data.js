@@ -1,0 +1,39 @@
+let array_of_obj= [
+    {
+        "id":1233,
+        "name":"product-1",
+        "price":23,
+        "src":"./some/url"
+    },
+    {
+        "id":1243,
+        "name":"product-2",
+        "price":23,
+        "src":"./some/url"
+    },
+    {
+        "id":1235,
+        "name":"product-3",
+        "price":23,
+        "src":"./some/url"
+    },
+    {
+        "id":233,
+        "name":"product-4",
+        "price":23,
+        "src":"./some/url"
+    },
+    {
+        "id":1233,
+        "name":"product-5",
+        "price":23,
+        "src":"./some/url"
+    },
+    {
+        "id":1239,
+        "name":"product-6",
+        "price":23,
+        "src":"./some/url"
+    }
+]
+module.exports=array_of_obj;

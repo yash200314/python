@@ -1,0 +1,3 @@
+from area_package import area_volslip6.py
+print("Area of cube is:",area_volslip6(9))
+print("Volume of cube is:",volume_of_cube(8))
